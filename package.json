@@ -1,0 +1,11 @@
+{
+  "name": "yuki",
+  "version": "1.0.0",
+  "description": "this a site for ai sonomura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
